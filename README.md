@@ -1,3 +1,3 @@
-# image_gen_with_dalle-mini
+# Image generation w/ Dall-E Mini
 
 ![Screenshot](screenshot.png)
